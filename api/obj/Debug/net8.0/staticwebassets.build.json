@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u1lUuQf5syC7N/Rvr2oVNrFJi+sDNvAqvVsYeiw9b8Y=",
+  "Source": "FlightDataAPI",
+  "BasePath": "_content/FlightDataAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
